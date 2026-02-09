@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("Testing git");
+        System.out.println("Test branch change");
 
         for (int i = 1; i <= 5; i++) {
 
